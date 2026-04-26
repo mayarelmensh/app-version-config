@@ -1,0 +1,10 @@
+{
+  "min_version_android": "1.0.1",
+  "min_version_ios": "1.2.1",
+  "latest_version_android": "1.0.1",
+  "latest_version_ios": "1.2.1",
+  "force_message": "يوجد تحديث مهم، يرجى التحديث للاستمرار",
+  "optional_message": "يوجد تحديث جديد، هل تريد التحديث الآن؟",
+  "android_url": "https://play.google.com/store/apps/details?id=com.app.icevolcano",
+  "ios_url": "https://apps.apple.com/eg/app/ice-volcano/id6756426972"
+}

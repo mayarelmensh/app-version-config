@@ -1,0 +1,10 @@
+{
+  "min_version_android": "1.0.1",
+  "min_version_ios": "1.1.0",
+  "latest_version_android": "1.0.1",
+  "latest_version_ios": "1.1.0",
+  "force_message": "يوجد تحديث مهم، يرجى التحديث للاستمرار",
+  "optional_message": "يوجد تحديث جديد، هل تريد التحديث الآن؟",
+  "android_url": "https://play.google.com/store/apps/details?id=com.app.elfares",
+  "ios_url": "https://apps.apple.com/eg/app/%D9%85%D8%AD%D9%85%D8%B5%D8%A9-%D8%A7%D9%84%D9%81%D8%A7%D8%B1%D8%B3/id6759100521"
+}
