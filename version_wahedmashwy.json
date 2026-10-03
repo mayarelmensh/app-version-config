@@ -1,0 +1,11 @@
+{
+  "min_version_android": "1.0.0",
+  "min_version_ios": "1.0.2",
+  "latest_version_android": "1.0.0",
+  "latest_version_ios": "1.0.2",
+  "force_message": "يوجد تحديث مهم، يرجى التحديث للاستمرار",
+  "force_message_en": "An important update is available. Please update to continue.",
+  "optional_message": "يوجد تحديث جديد، هل تريد التحديث الآن؟",
+  "android_url": "",
+  "ios_url": "https://apps.apple.com/eg/app/wahed-mashwy/id6808146159"
+}
