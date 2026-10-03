@@ -1,9 +1,10 @@
 {
   "min_version_android": "1.0.4",
-  "min_version_ios": "3.0.9",
+  "min_version_ios": "3.1.4",
   "latest_version_android": "1.0.4",
-  "latest_version_ios": "3.0.9",
+  "latest_version_ios": "3.1.4",
   "force_message": "يوجد تحديث مهم، يرجى التحديث للاستمرار",
+  "force_message_en": "An important update is available. Please update to continue.",
   "optional_message": "يوجد تحديث جديد، هل تريد التحديث الآن؟",
   "android_url": "https://play.google.com/store/apps/details?id=com.app.lmdawegodev",
   "ios_url": "https://apps.apple.com/eg/app/lamada/id6553989792"
