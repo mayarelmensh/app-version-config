@@ -1,9 +1,10 @@
 {
   "min_version_android": "1.0.1",
-  "min_version_ios": "1.0.1",
+  "min_version_ios": "1.1.1",
   "latest_version_android": "1.0.1",
-  "latest_version_ios": "1.0.1",
+  "latest_version_ios": "1.1.1",
   "force_message": "يوجد تحديث مهم، يرجى التحديث للاستمرار",
+  "force_message_en": "An important update is available. Please update to continue.",
   "optional_message": "يوجد تحديث جديد، هل تريد التحديث الآن؟",
   "android_url": "https://play.google.com/store/apps/details?id=com.app.shawarmaarabi",
   "ios_url": "https://apps.apple.com/eg/app/shawarma-arabi/id6755720471"
