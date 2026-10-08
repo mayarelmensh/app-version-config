@@ -1,7 +1,7 @@
 {
-  "min_version_android": "1.0.4",
+  "min_version_android": "1.0.5",
   "min_version_ios": "3.1.4",
-  "latest_version_android": "1.0.4",
+  "latest_version_android": "1.0.5",
   "latest_version_ios": "3.1.4",
   "force_message": "يوجد تحديث مهم، يرجى التحديث للاستمرار",
   "force_message_en": "An important update is available. Please update to continue.",
